@@ -4,3 +4,5 @@ for i in range(9)
        print("%s"*"%s"="%s"%(j,i,j*i),end=" " )
    print( " ")
 print("error")
+
+print("false")
