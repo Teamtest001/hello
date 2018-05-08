@@ -6,3 +6,4 @@ for i in range(9)
 print("error")
 
 print("false")
+print("GG")
